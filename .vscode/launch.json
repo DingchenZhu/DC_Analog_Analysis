@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/schropim/WorkSpace/CPP/Analog_pj_01/DC_Analog_Analysis/src",
+      "program": "/Users/schropim/WorkSpace/CPP/Analog_pj_01/DC_Analog_Analysis/src/build/Debug/outDebug"
+    }
+  ]
+}
