@@ -3,8 +3,9 @@
     {
       "name": "macos-clang-arm64",
       "includePath": [
-        "${workspaceFolder}/**",
-        "/usr/local/Cellar/eigen/3.4.0_1/include"
+        "/opt/homebrew/opt/eigen/include/eigen3",
+        "${workspaceFolder}/**"
+
       ],
       "compilerPath": "/usr/bin/clang",
       "cStandard": "${default}",
